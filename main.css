@@ -1,8 +1,11 @@
 .jumbotron {
 	font-size: bold;
-	margin: auto;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Sans-Serif;
 }
 
 .nav {
 	margin: auto;
+	font-family: Sans-Serif;
 }
