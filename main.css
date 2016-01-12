@@ -6,6 +6,10 @@
 }
 
 .nav {
-	margin: auto;
+	text-align: center;
 	font-family: Sans-Serif;
+}
+
+.nav li {
+	display: inline;
 }
