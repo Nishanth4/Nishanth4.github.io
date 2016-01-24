@@ -1,7 +1,6 @@
 .jumbotron {
 	font-size: bold;
-	margin-right: auto;
-	margin-left: auto;
+	text-align: center;
 	font-family: Sans-Serif;
 }
 
