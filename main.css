@@ -5,10 +5,14 @@
 }
 
 .nav {
-	display: inline;
+	text-align: center;
 	font-family: Sans-Serif;
 }
 
 .nav ul {
-	text-align: center;
+	display: inline-table;
+}
+
+.nav ul li {
+	display: inline;
 }
