@@ -6,8 +6,6 @@
 
 .nav {
 	font-family: Sans-Serif;
-	text-align: left;
-	width: 50000px;
 }
 
 .nav ul {
@@ -16,4 +14,6 @@
 
 .nav li {
 	list-style-type: none;
+	display: inline-block;
+	width: 100px;
 }
