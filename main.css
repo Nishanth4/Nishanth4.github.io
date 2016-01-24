@@ -14,6 +14,6 @@
 
 .nav li {
 	list-style-type: none;
-	display: inline-block;
+	display: block;
 	width: 100px;
 }
