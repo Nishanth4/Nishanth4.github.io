@@ -7,7 +7,7 @@
 .nav {
 	font-family: Sans-Serif;
 	text-align: left;
-	width: 500px;
+	width: 50000px;
 }
 
 .nav ul {
@@ -16,8 +16,4 @@
 
 .nav li {
 	list-style-type: none;
-}
-
-body {
-	background-color: #6699ff;
 }
