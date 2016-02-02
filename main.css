@@ -8,12 +8,4 @@
 	font-family: Sans-Serif;
 }
 
-.nav ul {
-	display: inline-table;
-}
 
-.nav li {
-	list-style-type: none;
-	display: inline-block;
-	width: 100px;
-}
